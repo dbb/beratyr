@@ -123,7 +123,37 @@ Example: let's say I'm targeting End, and I have a Armorer skill of `10`, a Bloc
 
 You could also do 4-4-2, 5-3-2, or even 10-0-0. The goal is to give more points to the weakest skill, and less to the stringest.
 
-You may have realized a problem. 
+You may have realized a problem: you need 10 skill increases in 3 major skills to level up. You can either split them up as mentioned above, or you can use a "throwaway" skill for the extra point. **Illusion is good for this as personality is the least useful attribute.** Also, once you max out an attribute, all three of its skills become "throwaways", meaning that you can level them whenever you want without having to worry about keeping track (except for the major skill).
+
+## Prioritizing
+
+**Endurance** is the most important attribute, as mentioned ten times already. But for the rest, you need to consider your options.
+
+You can either focus on three attributes until they are completely maxed out then pick three new ones, or you can focus on Endurance and rotate the other two. The second option is less boring and it's what I generally do.
+
+## Skills
+
+**FINALLY**, here are some tips for leveling specific skills.
+
+### Combat
+
+####Armorer
+
+This one is a bit tricky as you need *a lot* of repair hammers, which can get expensive later on. Luckily, your shields and heavy armor are going to get damaged while you're leveling the other two Endurance skills, so you'll have something to repair. If you're also leveling strength, you'll have weapons to repair too.
+
+But you will run out of things to use your hammers on, or you will run out of hammers. You may consider **training** (at The Fighting Chance in the Imperial City Market District), or you can **ignore** your Armorer skill until Heavy Armor and Block become painfully slow to level.
+
+Tip: the *respawning* containers in the Market District often contain repair hammers. Actually 
+
+
+
+
+
+
+
+
+
+
 
 
 
