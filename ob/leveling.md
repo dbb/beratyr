@@ -111,6 +111,21 @@ The second attribute is less important, but consider your character. Mages will 
 I always pick **The Lady** for the Endurance bonus.
  
 
+## Leveling
+
+To level efficiently, you need to keep careful track of your progress. I've made a [handy speadsheet](/link) which makes things easier. At a bare minimum, you need to monitor your skill increases *each level*. I also keep a record of my starting skill values as a reference point in case I screw up the count along the way.
+
+You need to get `10` skill increases in skills governed by the target attribute, as well as `2` additional attributes. That means you need to spread `30` skill increases across `3` attributes.
+
+How you distribute those skills depends on what the skills' starting values are, and how difficult each skill is to increase. **But in general, I use a 3-3-4 formula.** 
+
+Example: let's say I'm targeting End, and I have a Armorer skill of `10`, a Block Skill of `15`, and a Heavy Armor skill of `18`. I would increase Armorer by `4`, and then Block and Heavy Armor by `3`.
+
+You could also do 4-4-2, 5-3-2, or even 10-0-0. The goal is to give more points to the weakest skill, and less to the stringest.
+
+You may have realized a problem. 
+
+
 
 
 
