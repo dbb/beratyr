@@ -4,11 +4,15 @@
 
 This guide is intended as a quick-n-dirty crash course in [Efficient Leveling](http://uesp.net/wiki/Oblivion:Efficient_Leveling), primarily for beginners, but veterans may find some useful tips as well.
 
+Note: efficient leveling is a challenge in its own right, although the actual gameplay will be much easier afterward. However, it takes a long time, is quite tedious, and **may very well ruin the game for you**. Proceed at your own risk.
+
 ## The Leveling system
 
 Once you get `10` skill increases in any of your major skills, you have the option to level up by sleeping. **This means your major skill choices are extremely important.** Note that I said *option*. You can continue to increase your skills before leveling up, which will be important later.
 
-When you level up, your reward is the ability to permanently increase any `3` attributes by `1` to `5` points. The number depends on how many skill increases you got *that level* in the attribute's governing skills. Luck is the exception: it can only be increased by `1`. Here is an attribute-skill reference chart:
+When you level up, your reward is the ability to permanently increase any `3` attributes by `1` to `5` points. The number depends on how many skill increases you got *that level* in the attribute's governing skills. Luck is the exception: it can only be increased by `1`. This variance in attribute bonuses is the entire point of efficient leveling. You *could* actually role-play and try to have fun, but that would *suck* because you'd end up with a weak character. It's much better to end up as a demigod that one-hit anyone in the game, right? 
+
+Here is an attribute-skill reference chart:
 
 
 <table x:str border=0 cellpadding=0 cellspacing=0 width=760 style='border-collapse:
@@ -73,3 +77,40 @@ When you level up, your reward is the ability to permanently increase any `3` at
  </tr>
  <![endif]>
 </table>
+
+Before long, you will likely have all these memorized. But for the time being, keep a copy nearby.
+
+## Character Creation
+
+### Race and gender
+Your race isn't extremely important, but it may have some effect on how long it takes you to max out the skills and attributes. Same for gender. I almost always chose a Breton as their magic resistance is the best racial perk.
+
+### Skills
+Create a custom class. **Choose major skills that are easy to control.** Choose `1` skill for each governing attribute. I chose the following:
+
+* Blunt (Str)
+* Mysticism (Int)
+* Alteration (Wlp)
+* Security (Agl)
+* Acrobatics (Spd)
+* Heavy Armor (End)
+* Illusion (Spc)
+
+If you don't know what I mean by "easy to control", just stick with these.
+
+As for the specialization, you can pick whatever you want. 
+
+### Attributes
+
+Chose **Endurance** as your first favored attribute. I can't stress this enough. Endurance is the first attribute you'll want to max out as it controls how much health you gain when leveling up.
+
+The second attribute is less important, but consider your character. Mages will likely want to pick Intelligence, rogues Agility, and fighters Strength.
+
+### Birthsign
+
+I always pick **The Lady** for the Endurance bonus.
+ 
+
+
+
+
