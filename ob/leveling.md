@@ -129,13 +129,45 @@ You may have realized a problem: you need 10 skill increases in 3 major skills t
 
 **Endurance** is the most important attribute, as mentioned ten times already. But for the rest, you need to consider your options.
 
-You can either focus on three attributes until they are completely maxed out then pick three new ones, or you can focus on Endurance and rotate the other two. The second option is less boring and it's what I generally do.
+You can either focus on three attributes until they are completely maxed out then pick three new ones, or you can focus on Endurance and rotate the other two. The second option is less boring and it's what I generally do. Below are some pros and cons to help you decide what to focus on. I have listed them roughly in descending (high to low) priority for my play style, but yours could be completely different.
+
+* Endurance: Top priority. Directly affects **Fatigue**, **Health**, and health increase per level.
+* Agility: **Very** useful. Agility affects **bow damage**, so archers should make this a top priority. Also affects **Fatigue** and your chance to avoid being **staggered**.
+* Intelligence: A must for mages. Affects your **total magicka**, but *not* the magicka cost of spells.
+* Willpower: A must for mages. Affects your **magicka regeneration** as well as **fatigue**.
+* Strength: A must for warriors. Affects **melee damage**, **fatigue**, and your total **carry weight**.
+* Speed: Fairly useful- they can't kill what they can't catch. Controls **movement speed**, speed of **fast travel**, and length of **jumps**.
+* Personality: this is the **LEAST** useful. Speechcraft is easy enough, Mercantile is pretty useless except early on, and **Personality actually has no discernible effect on Illusion spells despite being its governing attribute.** I actually would improve Luck before wasting points on this attribute. 
 
 ## Skills
 
-**FINALLY**, here are some tips for leveling specific skills.
+**FINALLY**, here are some tips for leveling specific skills, arranged according to their governing attributes.
 
-### Combat
+### Strength Skills
+
+For all three Strength skills (**Blade, Blunt, and Hand to Hand**), you will want to go to [Peryite's Shrine](/link) and go to town on the frozen worshippers there.
+
+#### Blade
+
+Use daggers- they swing faster and you get a set amount of XP for each hit. Keep extra daggers or repair hammers handy.
+
+#### Blunt
+
+Use axes, preferably Iron as they weigh the least.
+
+#### Hand to Hand
+
+This is the *easiest* Strength skill to level. It's also quite handy since you will never *not* have your fists available and they never break.
+
+### Intelligence Skills
+
+### Willpower Skills
+
+### Agility Skills
+
+### Speed Skills
+
+### Endurance Skills 
 
 ####Armorer
 
@@ -143,8 +175,23 @@ This one is a bit tricky as you need *a lot* of repair hammers, which can get ex
 
 But you will run out of things to use your hammers on, or you will run out of hammers. You may consider **training** (at The Fighting Chance in the Imperial City Market District), or you can **ignore** your Armorer skill until Heavy Armor and Block become painfully slow to level.
 
-Tip: the *respawning* containers in the Market District often contain repair hammers. Actually 
+Tip: the *respawning* containers in the Market District often contain repair hammers. Actually any "miscellaneous junk" container has a chance to contain hammers (and lockpicks too), so check barrels, crates, boxes, etc. regularly.
 
+#### Block
+
+Just go to a bandit camp and let one of them whale on you- **preferably one with a dagger**. If a bandit has a bow, you can get them to draw a dagger (usually) by attacking them with a melee weapon.
+
+I like to go to the [Cursed Mine](/link) or [Place outside sewers](/link). You can back yourself into a corner then not worry about getting pushed around.
+
+Note: enemies will attack slower/less frequently if your shield is kept up. Thus, it is slightly faster to level block by leaving your shield down and only raising it just before an attack. However, this also requires you to pay attention to the game.
+
+Tip: Heavy armor shields will degrade slower, and iron shields are the lightest available. Carry `2-3` in your inventory unless you have plenty of repair hammers.
+
+#### Heavy Armor
+
+This is the *easiest* Endurange-governed skill to level. Essentially everything said about Block applies here.
+
+### Personality Skills
 
 
 
