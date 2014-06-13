@@ -178,7 +178,31 @@ Note: you only need *one* each of the alembic, calcinator, mortar & pestle, and 
 
 Also, be sure to periodically check the inventory of alchemy vendors for upgraded equipment (e.g. after your alchemy skill passes 25, you can buy Apprentice equipment and sell your Novice equipment).
 
+#### Conjuration
+
+Hotkey *Summon Skelton*, one or more *Bound [armor]* spells, and *Bound Dagger*. Summon the skeleton, conjure your armor, then repeatedly conjure and sheath the dagger. Once the skeleton and armor disappear, start the process over.
+
+When you run out of magicka, just wait for `1` hour.
+
+Conjuration can be leveled in tandem with other skills. For example, you could attack conjured creatures with bound weapons to level your melee skills, or you could use bound armor when levelling your light armor skill. Just be careful with your counts.
+
+#### Mysticism
+
+Hold the Block button and repeatedly cast the *Minor Detect Life* spell. Mysticism is relatively easy.
+
 ### Willpower Skills
+
+#### Alteration
+
+Hold Block and cast the *Protect* (shield 5% on self) spell. Quite easy to level.
+
+#### Destruction
+
+Go to Peryite's Shrine (where you will also be levelling your melee skills) and cast *Flare* on the followers. The *Entropic Touch* spell is actually better, but you'll have to buy it at the Mage's Guild in Skingrad.
+
+#### Restoration
+
+One of the **hardest** skills to level, and certainly the hadest of the magic skills. Hold Block and repeatedly cast the *Minor Respite* spell. I usually only level one point and train for `2`. 
 
 ### Agility Skills
 
