@@ -80,6 +80,8 @@ Here is an attribute-skill reference chart:
 
 Before long, you will likely have all these memorized. But for the time being, keep a copy nearby.
 
+---
+
 ## Character Creation
 
 ### Race and gender
@@ -110,6 +112,7 @@ The second attribute is less important, but consider your character. Mages will 
 
 I always pick **The Lady** for the Endurance bonus.
  
+---
 
 ## Leveling
 
@@ -139,6 +142,8 @@ You can either focus on three attributes until they are completely maxed out the
 * Speed: Fairly useful- they can't kill what they can't catch. Controls **movement speed**, speed of **fast travel**, and length of **jumps**.
 * Personality: this is the **LEAST** useful. Speechcraft is easy enough, Mercantile is pretty useless except early on, and **Personality actually has no discernible effect on Illusion spells despite being its governing attribute.** I actually would improve Luck before wasting points on this attribute. 
 
+---
+
 ## Skills
 
 **FINALLY**, here are some tips for leveling specific skills, arranged according to their governing attributes.
@@ -160,6 +165,18 @@ Use axes, preferably Iron as they weigh the least.
 This is the *easiest* Strength skill to level. It's also quite handy since you will never *not* have your fists available and they never break.
 
 ### Intelligence Skills
+
+#### Alchemy
+
+Alchemy is quite easy to level, and *very* lucrative. In fact, I use the profits from selling potions to pay for training in more difficult skills.
+
+Join the Mages Guild for access to free alchemy equipment and food (by the way, it should go without saying that should take every single ingredient you see, because you can never have too many). You can gather enough free ingredients from farms to make a couple hundred potions, and the real kicker is that the plants respawn after three days.
+
+In order to make a lot of money while maxing out your Intelligence, you may want to to a `7-3` split between Alchemy and Mysticism (or Conjuration if you chose it as a major skill instead).
+
+Note: you only need *one* each of the alembic, calcinator, mortar & pestle, and retort- they do not degrade in condition or break, so you can sell all the extras. Most guild halls will have a respawning cabinet containing alchemy apparatuses.
+
+Also, be sure to periodically check the inventory of alchemy vendors for upgraded equipment (e.g. after your alchemy skill passes 25, you can buy Apprentice equipment and sell your Novice equipment).
 
 ### Willpower Skills
 
